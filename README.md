@@ -5,6 +5,7 @@ Lab01: Biến đổi màu: tuyến tính và phi tuyến, Cân bằng lược đ
 
 Lab02: Xây dựng ma trận affine và phép nội suy: Biến đổi hình ảnh  xoay, phép tịnh tiến, phép scale
 
+------------------------------------------------------------------------------------------------------------------------
 
 Lab01: Color Transformation: Linear and Non-Linear, Histogram Equalization for GrayScale and Color Image, Convert Color Space
 
