@@ -13,4 +13,4 @@ Lab01: Color Transformation: Linear and Non-Linear, Histogram Equalization for G
 
 Lab02: Geometric Transformation: Implemetation Affine Matrix, Pixel Interpolation -> Rotate Image, Scale Image, Translate Image,
 
-Lab03: Mean, Median, Gaussian Filter, Sobel Prewitt, Laplace Operator 
+Lab03: Mean, Median, Gaussian Filter, Sobel Prewitt, Laplace Edge Detector 
